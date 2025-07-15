@@ -1,0 +1,6 @@
+{
+  "similarity_threshold": 0.8,
+  "min_tag_score": 0.2,
+  "max_tag_count": 6,
+  "min_tag_count": 3
+} 

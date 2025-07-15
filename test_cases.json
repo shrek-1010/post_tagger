@@ -1,0 +1,39 @@
+{
+  "duplicate_exact": {
+    "input": {
+      "user_id": "user_1234",
+      "title": "Binary search trees explained",
+      "body": "Can someone explain how binary search trees work and their use cases?"
+    }
+  },
+  "duplicate_noisy": {
+    "input": {
+      "user_id": "user_5678",
+      "title": "Binary search tree explanation",
+      "body": "Can anyone explain how binary search trees function and their use cases?"
+    }
+  },
+  "tag_generation": [
+    {
+      "input": {
+        "user_id": "user_1111",
+        "title": "How to install Python on Windows?",
+        "body": "I need help installing Python on my Windows laptop."
+      }
+    },
+    {
+      "input": {
+        "user_id": "user_2222",
+        "title": "Symptoms of COVID-19",
+        "body": "What are the common symptoms of COVID-19?"
+      }
+    },
+    {
+      "input": {
+        "user_id": "user_3333",
+        "title": "Baking a chocolate cake",
+        "body": "Can someone share a recipe for baking a chocolate cake?"
+      }
+    }
+  ]
+} 
